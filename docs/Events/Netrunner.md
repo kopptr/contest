@@ -14,12 +14,15 @@ Since playing as Corp is effectively an entirely different game than playing as 
 - Structure:
 	- Best of three games with one player as Runner and the other as Corp. Independently, best of three with the roles reversed.
 	- Contestants may switch between their presubmitted decklists between games.
-## Scoring
-- Contestants get 1 point per win. If a contestant wins the first two games in the same role, he is awarded an additional point (3 total) and the third game is not played.
-- Therefore, up to 6 points are available for Netrunner, and a contestant can win them all by going undefeated for four games, two as Runner and two as Corp.
 
 ## Perks
+- X: Mulligan your hand an additional time. Can be used only once per game.
 - X: To be use after a deck is chosen but before play begins. Force your opponent to use his other deck, if he has one.
 - X: To be used between games. Add up to five cards to your deck. Subtract up to five cards from your deck. The result must be a legal deck.
 - X: Spend 1 click to gain 3 credits. Can only be used once per game.
 - X+1: Prevent your opponent from doing any of the above.
+
+## Scoring
+- Contestants get 1 point per win. If a contestant wins the first two games in the same role, he is awarded an additional point (3 total) and the third game is not played.
+- Therefore, up to 6 points are available for Netrunner, and a contestant can win them all by going undefeated for four games, two as Runner and two as Corp.
+
