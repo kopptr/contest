@@ -1,6 +1,15 @@
-# Obsidian Notes
+# The Contest
 
-Publish your public notes with MkDocs
+Contest between Jeremy & Randy. Winner will be best man; loser will be next man.
+
+| Event             | Start Date | End Date | Available Points | Jeremy | Randy |
+| ----------------- | ---------- | -------- | ---------------- | ------ | ----- |
+|                   |            |          |                  |        |       |
+| [[Netrunner]]     |            |          |                  |        |       |
+| [[Hunt Showdown]] |            |          |                  |        |       |
+| [[Mario Tennis]]  | TBD        | TBD      |                  |        |       |
+-
+
 
 ## Hello World!
 
